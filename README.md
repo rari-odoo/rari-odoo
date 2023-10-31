@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Ritika Rathore
-- 👀 I’m interested in Java, SQL
 - 🌱 I’m currently learning Pyhton
