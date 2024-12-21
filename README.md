@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ritika Rathore
-- 🌱 I’m currently learning Pyhton
+- Odoo Developer
